@@ -2,7 +2,7 @@
   "name": "teroswebsite",
   "version": "1.0.0",
   "description": "Teros Turn Based Tactics webpage",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "netify": "^1.0.0"
   },
