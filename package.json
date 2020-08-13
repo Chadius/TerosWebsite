@@ -1,0 +1,23 @@
+{
+  "name": "teroswebsite",
+  "version": "1.0.0",
+  "description": "Teros Turn Based Tactics webpage",
+  "main": "index.js",
+  "dependencies": {
+    "netify": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chadius/TerosWebsite.git"
+  },
+  "author": "Chad Serrant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chadius/TerosWebsite/issues"
+  },
+  "homepage": "https://github.com/Chadius/TerosWebsite#readme"
+}
